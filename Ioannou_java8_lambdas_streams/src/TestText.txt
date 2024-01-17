@@ -1,0 +1,2 @@
+The way you think about Java programming is about to change profoundly
+Prior to Java SE 8, Java supported three programming paradigms—procedural programming, object-oriented programming and generic programming
