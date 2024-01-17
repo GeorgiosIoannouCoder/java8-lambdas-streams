@@ -139,7 +139,7 @@ The main code file can be found [here](https://github.com/GeorgiosIoannouCoder/j
 
 ## Demo
 
-https://github.com/GeorgiosIoannouCoder/java8-lambdas-streams/assets/110848236/3415e95d-55cf-4f7f-88bd-d0ca45615df3
+https://github.com/GeorgiosIoannouCoder/java8-lambdas-streams/assets/110848236/36651141-f0e6-46da-a581-86f26d7d1f44
 
 <p align="right"><a href="#readme-top">Back to top</a></p>
 
