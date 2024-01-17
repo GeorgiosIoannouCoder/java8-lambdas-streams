@@ -57,7 +57,7 @@
 
 ## About The Project
 
-<img src="logo.png" alt="Logo" width="200" height="150">
+<img src="logo.png" alt="Logo" width="200" height="130">
 
 ## Requirements
 
